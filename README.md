@@ -1,3 +1,3 @@
 # PyBites Solutions
-My solutions to python coding challenge problems from PyBites.
+My solutions to python coding challenges from PyBites.
 https://codechalleng.es/
